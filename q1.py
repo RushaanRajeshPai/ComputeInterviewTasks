@@ -17,4 +17,3 @@ if _name_ == '_main_':
         print("Weird")
     elif n % 2 == 0 and n>20:
         print("Not Weird")
-
